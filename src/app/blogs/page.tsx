@@ -47,7 +47,15 @@ const blogPosts: BlogPost[] = [
     imageUrl: '/progamingtimage.png',
     author: 'Haruki'
   }
-  
+  ,
+  {
+    slug: 'analysisMesod',
+    title: '機械学習の基礎',
+    date: '2025-07-02',
+    excerpt: '学んだ機械学習の基礎をまとめていきます。',
+    imageUrl: '/library.jpg',
+    author: 'Haruki'
+  }
 
 ];
 
