@@ -17,6 +17,8 @@ export default function Page() {
       <div className='mb-5'>・</div>
       <div className='mb-5'>・</div>
       <div className='mb-5'>・</div>
+      <div className='link-site mb-5 mt-10'>リンク</div>
+      <div className='inline-block mb-6 text-blue-500 hover:text-blue-600'><Link href="https://share.streamlit.io/user/egaoichi-hrk">Streamlit Cloud</Link></div>
     </div>
   );
 }
